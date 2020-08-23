@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">[MiW]: HTTP con Tarea Asíncrona</string>
+    <string name="errorLoading">Error al cargar el recurso:</string>
+    <string name="txtRecursoRecibido">Recurso recibido</string>
+    <string name="txtBotonIncrementar">¡Sumar 1!</string>
+    <string name="txtBotonIniciar">Iniciar Tarea</string>
+    <string name="txtBotonCancelar">Cancelar Tarea</string>
+    <string name="tareaCancelada">Tarea cancelada</string>
+
+    <integer name="valorinicial">0</integer>
+
+</resources>

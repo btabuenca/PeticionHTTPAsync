@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_miw_launcher.png.flat",
+        "source": "/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/res/mipmap-mdpi/ic_miw_launcher.png"
+    },
+    {
+        "merged": "/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_miw_launcher_rounded.png.flat",
+        "source": "/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/res/mipmap-hdpi/ic_miw_launcher_rounded.png"
+    },
+    {
+        "merged": "/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_miw_launcher_rounded.png.flat",
+        "source": "/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/res/mipmap-mdpi/ic_miw_launcher_rounded.png"
+    },
+    {
+        "merged": "/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_miw_launcher_rounded.png.flat",
+        "source": "/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/res/mipmap-xxhdpi/ic_miw_launcher_rounded.png"
+    },
+    {
+        "merged": "/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_miw_launcher.png.flat",
+        "source": "/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/res/mipmap-xxhdpi/ic_miw_launcher.png"
+    },
+    {
+        "merged": "/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_miw_launcher.png.flat",
+        "source": "/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/res/mipmap-xxxhdpi/ic_miw_launcher.png"
+    },
+    {
+        "merged": "/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_miw_launcher.png.flat",
+        "source": "/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/res/mipmap-xhdpi/ic_miw_launcher.png"
+    },
+    {
+        "merged": "/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_miw_launcher_rounded.png.flat",
+        "source": "/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/res/mipmap-xxxhdpi/ic_miw_launcher_rounded.png"
+    },
+    {
+        "merged": "/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_miw_launcher.png.flat",
+        "source": "/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/res/mipmap-hdpi/ic_miw_launcher.png"
+    },
+    {
+        "merged": "/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_miw_launcher_rounded.png.flat",
+        "source": "/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/res/mipmap-xhdpi/ic_miw_launcher_rounded.png"
+    }
+]
