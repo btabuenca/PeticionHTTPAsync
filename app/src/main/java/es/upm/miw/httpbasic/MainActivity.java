@@ -17,7 +17,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.Locale;
 
-public class ActividadDescargaRecurso extends Activity {
+public class MainActivity extends Activity {
 
     private static final String LOG_TAG = "MiW";
 

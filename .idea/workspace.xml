@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fc010d84-139e-4ab2-aba6-a0596502ca15" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -105,5 +110,11 @@
       <updated>1598201510052</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="316" y="-822" width="670" height="676" key="search.everywhere.popup" timestamp="1598202170005">
+      <screen x="-309" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="316" y="-822" width="670" height="676" key="search.everywhere.popup/0.23.1280.738/-309.-1057.1920.1057@-309.-1057.1920.1057" timestamp="1598202170005" />
   </component>
 </project>
