@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "applicationId": "es.upm.miw.httpbasic",
+  "applicationId": "es.upm.miw.peticionhttpasync",
   "variantType": "BASE_APK",
   "elements": [
     {

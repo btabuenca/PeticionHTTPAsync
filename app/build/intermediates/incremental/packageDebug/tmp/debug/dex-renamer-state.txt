@@ -1,4 +1,4 @@
-#Sun Aug 23 18:53:26 CEST 2020
+#Tue Sep 01 11:56:34 CEST 2020
 base.0=/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

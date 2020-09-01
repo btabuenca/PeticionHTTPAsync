@@ -17,7 +17,7 @@ INJECTED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidM
 INJECTED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:2:1-24:12
 INJECTED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:2:1-24:12
 	package
-		ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:4:5-35
+		ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:4:5-43
 		INJECTED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml
 	android:versionName
@@ -70,10 +70,10 @@ MERGED from [com.android.support:support-compat:25.3.1] /Users/BTB/.gradle/cache
 		ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:13:9-35
 	android:theme
 		ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:14:9-40
-activity#es.upm.miw.httpbasic.ActividadDescargaRecurso
+activity#es.upm.miw.peticionhttpasync.MainActivity
 ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:16:9-21:20
 	android:name
-		ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:16:19-59
+		ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:16:19-75
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:17:13-20:29
 action#android.intent.action.MAIN

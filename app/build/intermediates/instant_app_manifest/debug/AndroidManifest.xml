@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="es.upm.miw.httpbasic"
+    package="es.upm.miw.peticionhttpasync"
     android:targetSandboxVersion="2"
     android:versionCode="1"
     android:versionName="1.0" >
@@ -24,7 +24,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="es.upm.miw.httpbasic.ActividadDescargaRecurso" >
+        <activity android:name="es.upm.miw.peticionhttpasync.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

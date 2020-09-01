@@ -112,9 +112,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="316" y="-822" width="670" height="676" key="search.everywhere.popup" timestamp="1598202170005">
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom" timestamp="1598954052007">
       <screen x="-309" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="316" y="-822" width="670" height="676" key="search.everywhere.popup/0.23.1280.738/-309.-1057.1920.1057@-309.-1057.1920.1057" timestamp="1598202170005" />
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom/0.23.1280.738/-309.-1057.1920.1057@-309.-1057.1920.1057" timestamp="1598953590298" />
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom/0.23.1280.739/-309.-1057.1920.1057@-309.-1057.1920.1057" timestamp="1598954052007" />
+    <state width="1878" height="290" key="GridCell.Tab.0.center" timestamp="1598954052006">
+      <screen x="-309" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.center/0.23.1280.738/-309.-1057.1920.1057@-309.-1057.1920.1057" timestamp="1598953590297" />
+    <state width="1878" height="290" key="GridCell.Tab.0.center/0.23.1280.739/-309.-1057.1920.1057@-309.-1057.1920.1057" timestamp="1598954052006" />
+    <state width="1878" height="290" key="GridCell.Tab.0.left" timestamp="1598954052005">
+      <screen x="-309" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.left/0.23.1280.738/-309.-1057.1920.1057@-309.-1057.1920.1057" timestamp="1598953590297" />
+    <state width="1878" height="290" key="GridCell.Tab.0.left/0.23.1280.739/-309.-1057.1920.1057@-309.-1057.1920.1057" timestamp="1598954052005" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right" timestamp="1598954052006">
+      <screen x="-309" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.right/0.23.1280.738/-309.-1057.1920.1057@-309.-1057.1920.1057" timestamp="1598953590298" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right/0.23.1280.739/-309.-1057.1920.1057@-309.-1057.1920.1057" timestamp="1598954052006" />
+    <state x="298" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1598947492928">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="298" y="224" key="com.intellij.ide.util.TipDialog/0.23.1280.737/-309.-1057.1920.1057@0.23.1280.737" timestamp="1598947492928" />
+    <state x="298" y="224" key="com.intellij.ide.util.TipDialog/0.23.1280.738@0.23.1280.738" timestamp="1598273892861" />
+    <state x="318" y="-773" width="665" height="488" key="find.popup" timestamp="1598953867727">
+      <screen x="-309" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="318" y="-773" width="665" height="488" key="find.popup/0.23.1280.738/-309.-1057.1920.1057@-309.-1057.1920.1057" timestamp="1598953867727" />
+    <state x="316" y="-822" width="670" height="676" key="search.everywhere.popup" timestamp="1598953255682">
+      <screen x="-309" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="316" y="-822" width="670" height="676" key="search.everywhere.popup/0.23.1280.738/-309.-1057.1920.1057@-309.-1057.1920.1057" timestamp="1598953255682" />
   </component>
 </project>

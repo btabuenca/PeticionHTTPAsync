@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="es.upm.miw.httpbasic"
+3    package="es.upm.miw.peticionhttpasync"
 4    android:versionCode="1"
 5    android:versionName="1.0" >
 6
@@ -37,9 +37,9 @@
 24        android:testOnly="true"
 25        android:theme="@style/AppTheme" >
 25-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:14:9-40
-26        <activity android:name="es.upm.miw.httpbasic.ActividadDescargaRecurso" >
+26        <activity android:name="es.upm.miw.peticionhttpasync.MainActivity" >
 26-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:16:9-21:20
-26-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:16:19-59
+26-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:16:19-75
 27            <intent-filter>
 27-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:17:13-20:29
 28                <action android:name="android.intent.action.MAIN" />
