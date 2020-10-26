@@ -161,4 +161,15 @@
     <state x="316" y="-822" width="670" height="676" key="search.everywhere.popup/0.23.1280.738/-309.-1057.1920.1057@-309.-1057.1920.1057" timestamp="1598953255682" />
     <state x="417" y="188" width="670" height="475" key="search.everywhere.popup/0.23.1280.742@0.23.1280.742" timestamp="1603670208266" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/es/upm/miw/peticionhttpasync/MainActivity.java</url>
+          <line>125</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
 </project>

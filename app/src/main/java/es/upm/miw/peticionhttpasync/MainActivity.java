@@ -22,7 +22,7 @@ public class MainActivity extends Activity {
     private static final String LOG_TAG = "MiW";
 
     static final String URL_RECURSO = "http://www.etsisi.upm.es/robots.txt";
-    //static final String URL_RECURSO = "http://api.openweathermap.org/data/2.5/find?lat=40.475172&lon=-3.461757&cnt=10&APPID=add7afd148b08ad9e0c06da452f061d5";
+    //static final String URL_RECURSO = "http://api.openweathermap.org/data/2.5/find?lat=40.475172&lon=-3.461757&cnt=10&APPID=...";
 
 
     Button botonIniciar, botonCancelar, botonIncrementar;
