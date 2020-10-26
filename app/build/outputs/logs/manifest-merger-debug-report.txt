@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:2:1-24:12
+ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:2:1-25:12
 MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/BTB/.gradle/caches/transforms-2/files-2.1/3a89d3427939006c0d7c18dd2b347229/appcompat-v7-25.3.1/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/BTB/.gradle/caches/transforms-2/files-2.1/d64dd41fb8686928d6c513d60e57dea1/animated-vector-drawable-25.3.1/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/BTB/.gradle/caches/transforms-2/files-2.1/81a16022189acf92ac743cfef032039e/support-vector-drawable-25.3.1/AndroidManifest.xml:17:1-28:12
@@ -13,22 +13,22 @@ MERGED from [com.android.support:support-media-compat:25.3.1] /Users/BTB/.gradle
 MERGED from [com.android.support:support-core-utils:25.3.1] /Users/BTB/.gradle/caches/transforms-2/files-2.1/2bca0ec76ec2ffd6e43ca9df70fa5964/support-core-utils-25.3.1/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-ui:25.3.1] /Users/BTB/.gradle/caches/transforms-2/files-2.1/2169db9f49ba13924639051829d631e6/support-core-ui-25.3.1/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:25.3.1] /Users/BTB/.gradle/caches/transforms-2/files-2.1/7f621c8db80a257fd6765853ce890e78/support-compat-25.3.1/AndroidManifest.xml:17:1-31:12
-INJECTED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:2:1-25:12
 	package
 		ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:4:5-43
 		INJECTED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml
-		ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:2:1-24:12
+		ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:2:1-25:12
 		INJECTED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml
-		ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:2:1-24:12
+		ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:2:1-25:12
 		INJECTED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:2:11-69
@@ -37,7 +37,7 @@ ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidMani
 	android:name
 		ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:6:22-64
 application
-ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:8:5-22:19
+ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:8:5-23:19
 MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/BTB/.gradle/caches/transforms-2/files-2.1/3a89d3427939006c0d7c18dd2b347229/appcompat-v7-25.3.1/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/BTB/.gradle/caches/transforms-2/files-2.1/3a89d3427939006c0d7c18dd2b347229/appcompat-v7-25.3.1/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/BTB/.gradle/caches/transforms-2/files-2.1/d64dd41fb8686928d6c513d60e57dea1/animated-vector-drawable-25.3.1/AndroidManifest.xml:26:5-20
@@ -61,7 +61,7 @@ MERGED from [com.android.support:support-compat:25.3.1] /Users/BTB/.gradle/cache
 	android:label
 		ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:11:9-41
 	tools:ignore
-		ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:15:9-48
+		ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:16:9-48
 	android:roundIcon
 		ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:10:9-60
 	android:icon
@@ -69,21 +69,23 @@ MERGED from [com.android.support:support-compat:25.3.1] /Users/BTB/.gradle/cache
 	android:allowBackup
 		ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:13:9-35
 	android:theme
-		ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:14:9-40
+		ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:15:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:14:9-44
 activity#es.upm.miw.peticionhttpasync.MainActivity
-ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:16:9-21:20
+ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:17:9-22:20
 	android:name
-		ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:16:19-75
+		ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:17:19-75
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:17:13-20:29
+ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:18:13-21:29
 action#android.intent.action.MAIN
-ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:18:17-69
+ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:18:25-66
+		ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:19:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:19:17-77
+ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:19:27-74
+		ADDED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:20:27-74
 uses-sdk
 INJECTED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml

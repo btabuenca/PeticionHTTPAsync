@@ -21,7 +21,8 @@ public class MainActivity extends Activity {
 
     private static final String LOG_TAG = "MiW";
 
-    static final String URL_RECURSO = "http://www.cope.es/api/es/programas/el-partidazo-de-cope/audios/rss.xml";
+    static final String URL_RECURSO = "http://www.etsisi.upm.es/robots.txt";
+    //static final String URL_RECURSO = "http://api.openweathermap.org/data/2.5/find?lat=40.475172&lon=-3.461757&cnt=10&APPID=add7afd148b08ad9e0c06da452f061d5";
 
 
     Button botonIniciar, botonCancelar, botonIncrementar;
@@ -132,6 +133,7 @@ public class MainActivity extends Activity {
                 Log.i(LOG_TAG, getString(R.string.txtRecursoRecibido));
             } catch (Exception e) {
                 Log.e("ERROR", getResources().getString(R.string.errorLoading)+ e.getMessage());
+                e.printStackTrace();
             } finally {
                 if (con != null) con.disconnect();
             }

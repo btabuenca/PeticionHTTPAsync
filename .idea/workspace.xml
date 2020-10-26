@@ -5,6 +5,10 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fc010d84-139e-4ab2-aba6-a0596502ca15" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,7 +16,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="FIUOOZS84H8H4SCY" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_API_29" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -36,6 +40,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
@@ -112,38 +117,48 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1878" height="290" key="GridCell.Tab.0.bottom" timestamp="1598954296906">
-      <screen x="-309" y="-1057" width="1920" height="1057" />
+    <state width="1238" height="341" key="GridCell.Tab.0.bottom" timestamp="1603703926688">
+      <screen x="-1280" y="-201" width="1280" height="1001" />
     </state>
+    <state width="1238" height="341" key="GridCell.Tab.0.bottom/-1280.-201.1280.1001/0.23.1280.740@-1280.-201.1280.1001" timestamp="1603703926688" />
     <state width="1878" height="290" key="GridCell.Tab.0.bottom/0.23.1280.738/-309.-1057.1920.1057@-309.-1057.1920.1057" timestamp="1598953590298" />
     <state width="1878" height="290" key="GridCell.Tab.0.bottom/0.23.1280.739/-309.-1057.1920.1057@-309.-1057.1920.1057" timestamp="1598954296906" />
-    <state width="1878" height="290" key="GridCell.Tab.0.center" timestamp="1598954296905">
-      <screen x="-309" y="-1057" width="1920" height="1057" />
+    <state width="1238" height="218" key="GridCell.Tab.0.bottom/0.23.1280.742@0.23.1280.742" timestamp="1603670441200" />
+    <state width="1238" height="341" key="GridCell.Tab.0.center" timestamp="1603703926687">
+      <screen x="-1280" y="-201" width="1280" height="1001" />
     </state>
+    <state width="1238" height="341" key="GridCell.Tab.0.center/-1280.-201.1280.1001/0.23.1280.740@-1280.-201.1280.1001" timestamp="1603703926687" />
     <state width="1878" height="290" key="GridCell.Tab.0.center/0.23.1280.738/-309.-1057.1920.1057@-309.-1057.1920.1057" timestamp="1598953590297" />
     <state width="1878" height="290" key="GridCell.Tab.0.center/0.23.1280.739/-309.-1057.1920.1057@-309.-1057.1920.1057" timestamp="1598954296905" />
-    <state width="1878" height="290" key="GridCell.Tab.0.left" timestamp="1598954296905">
-      <screen x="-309" y="-1057" width="1920" height="1057" />
+    <state width="1238" height="218" key="GridCell.Tab.0.center/0.23.1280.742@0.23.1280.742" timestamp="1603670441200" />
+    <state width="1238" height="341" key="GridCell.Tab.0.left" timestamp="1603703926686">
+      <screen x="-1280" y="-201" width="1280" height="1001" />
     </state>
+    <state width="1238" height="341" key="GridCell.Tab.0.left/-1280.-201.1280.1001/0.23.1280.740@-1280.-201.1280.1001" timestamp="1603703926686" />
     <state width="1878" height="290" key="GridCell.Tab.0.left/0.23.1280.738/-309.-1057.1920.1057@-309.-1057.1920.1057" timestamp="1598953590297" />
     <state width="1878" height="290" key="GridCell.Tab.0.left/0.23.1280.739/-309.-1057.1920.1057@-309.-1057.1920.1057" timestamp="1598954296905" />
-    <state width="1878" height="290" key="GridCell.Tab.0.right" timestamp="1598954296906">
-      <screen x="-309" y="-1057" width="1920" height="1057" />
+    <state width="1238" height="218" key="GridCell.Tab.0.left/0.23.1280.742@0.23.1280.742" timestamp="1603670441199" />
+    <state width="1238" height="341" key="GridCell.Tab.0.right" timestamp="1603703926687">
+      <screen x="-1280" y="-201" width="1280" height="1001" />
     </state>
+    <state width="1238" height="341" key="GridCell.Tab.0.right/-1280.-201.1280.1001/0.23.1280.740@-1280.-201.1280.1001" timestamp="1603703926687" />
     <state width="1878" height="290" key="GridCell.Tab.0.right/0.23.1280.738/-309.-1057.1920.1057@-309.-1057.1920.1057" timestamp="1598953590298" />
     <state width="1878" height="290" key="GridCell.Tab.0.right/0.23.1280.739/-309.-1057.1920.1057@-309.-1057.1920.1057" timestamp="1598954296906" />
-    <state x="298" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1598947492928">
-      <screen x="0" y="23" width="1280" height="737" />
+    <state width="1238" height="218" key="GridCell.Tab.0.right/0.23.1280.742@0.23.1280.742" timestamp="1603670441200" />
+    <state x="298" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1603671172803">
+      <screen x="0" y="23" width="1280" height="741" />
     </state>
     <state x="298" y="224" key="com.intellij.ide.util.TipDialog/0.23.1280.737/-309.-1057.1920.1057@0.23.1280.737" timestamp="1598947492928" />
     <state x="298" y="224" key="com.intellij.ide.util.TipDialog/0.23.1280.738@0.23.1280.738" timestamp="1598273892861" />
+    <state x="298" y="225" key="com.intellij.ide.util.TipDialog/0.23.1280.741@0.23.1280.741" timestamp="1603671172803" />
     <state x="318" y="-773" width="665" height="488" key="find.popup" timestamp="1598953867727">
       <screen x="-309" y="-1057" width="1920" height="1057" />
     </state>
     <state x="318" y="-773" width="665" height="488" key="find.popup/0.23.1280.738/-309.-1057.1920.1057@-309.-1057.1920.1057" timestamp="1598953867727" />
-    <state x="316" y="-822" width="670" height="676" key="search.everywhere.popup" timestamp="1598953255682">
-      <screen x="-309" y="-1057" width="1920" height="1057" />
+    <state x="417" y="188" width="670" height="475" key="search.everywhere.popup" timestamp="1603670208266">
+      <screen x="0" y="23" width="1280" height="742" />
     </state>
     <state x="316" y="-822" width="670" height="676" key="search.everywhere.popup/0.23.1280.738/-309.-1057.1920.1057@-309.-1057.1920.1057" timestamp="1598953255682" />
+    <state x="417" y="188" width="670" height="475" key="search.everywhere.popup/0.23.1280.742@0.23.1280.742" timestamp="1603670208266" />
   </component>
 </project>
