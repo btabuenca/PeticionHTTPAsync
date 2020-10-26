@@ -104,7 +104,7 @@ public class MainActivity extends Activity {
         @Override
         protected String doInBackground(TextView... textViews) {
             tvContenidoTarea = textViews[0];
-            String buffer = null;
+            String buffer = "";
             HttpURLConnection con = null;
 
             try {
