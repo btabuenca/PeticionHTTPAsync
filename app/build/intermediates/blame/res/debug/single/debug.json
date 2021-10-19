@@ -8,12 +8,12 @@
         "source": "/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/res/mipmap-mdpi/ic_miw_launcher.png"
     },
     {
-        "merged": "/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_miw_launcher_rounded.png.flat",
-        "source": "/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/res/mipmap-hdpi/ic_miw_launcher_rounded.png"
-    },
-    {
         "merged": "/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_miw_launcher_rounded.png.flat",
         "source": "/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/res/mipmap-mdpi/ic_miw_launcher_rounded.png"
+    },
+    {
+        "merged": "/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_miw_launcher_rounded.png.flat",
+        "source": "/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/res/mipmap-hdpi/ic_miw_launcher_rounded.png"
     },
     {
         "merged": "/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_miw_launcher_rounded.png.flat",

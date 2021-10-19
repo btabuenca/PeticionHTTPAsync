@@ -7,52 +7,47 @@
 7    <uses-sdk
 8        android:minSdkVersion="15"
 8-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml
-9        android:targetSdkVersion="28" />
+9        android:targetSdkVersion="30" />
 9-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
 11-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:6:5-67
 11-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:6:22-64
 12
-13    <meta-data
-13-->[com.android.support:appcompat-v7:25.3.1] /Users/BTB/.gradle/caches/transforms-2/files-2.1/3a89d3427939006c0d7c18dd2b347229/appcompat-v7-25.3.1/AndroidManifest.xml:25:5-27:34
-14        android:name="android.support.VERSION"
-14-->[com.android.support:appcompat-v7:25.3.1] /Users/BTB/.gradle/caches/transforms-2/files-2.1/3a89d3427939006c0d7c18dd2b347229/appcompat-v7-25.3.1/AndroidManifest.xml:26:9-47
-15        android:value="25.3.1" />
-15-->[com.android.support:appcompat-v7:25.3.1] /Users/BTB/.gradle/caches/transforms-2/files-2.1/3a89d3427939006c0d7c18dd2b347229/appcompat-v7-25.3.1/AndroidManifest.xml:27:9-31
-16
-17    <application
-17-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:8:5-23:19
-18        android:allowBackup="true"
-18-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:13:9-35
-19        android:debuggable="true"
-20        android:icon="@mipmap/ic_miw_launcher"
-20-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:9:9-47
-21        android:label="@string/app_name"
-21-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:11:9-41
-22        android:roundIcon="@mipmap/ic_miw_launcher_rounded"
-22-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:10:9-60
-23        android:supportsRtl="true"
-23-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:12:9-35
-24        android:testOnly="true"
-25        android:theme="@style/AppTheme"
-25-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:15:9-40
-26        android:usesCleartextTraffic="true" >
-26-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:14:9-44
-27        <activity android:name="es.upm.miw.peticionhttpasync.MainActivity" >
-27-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:17:9-22:20
-27-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:17:19-75
-28            <intent-filter>
-28-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:18:13-21:29
-29                <action android:name="android.intent.action.MAIN" />
-29-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:19:17-69
-29-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:19:25-66
-30
-31                <category android:name="android.intent.category.LAUNCHER" />
-31-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:20:17-77
-31-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:20:27-74
-32            </intent-filter>
-33        </activity>
-34    </application>
-35
-36</manifest>
+13    <application
+13-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:8:5-23:19
+14        android:allowBackup="true"
+14-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:13:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.1.0] /Users/BTB/.gradle/caches/transforms-2/files-2.1/03736cf4bc3669a69d502627b70a527e/core-1.1.0/AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_miw_launcher"
+17-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:9:9-47
+18        android:label="@string/app_name"
+18-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:11:9-41
+19        android:roundIcon="@mipmap/ic_miw_launcher_rounded"
+19-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:10:9-60
+20        android:supportsRtl="true"
+20-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:12:9-35
+21        android:testOnly="true"
+22        android:theme="@style/AppTheme"
+22-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:15:9-40
+23        android:usesCleartextTraffic="true" >
+23-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:14:9-44
+24        <activity android:name="es.upm.miw.peticionhttpasync.MainActivity" >
+24-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:17:9-22:20
+24-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:17:19-75
+25            <intent-filter>
+25-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:18:13-21:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:19:17-69
+26-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:19:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:20:17-77
+28-->/Users/BTB/Projects/GitHub/PeticionHTTPAsync/app/src/main/AndroidManifest.xml:20:27-74
+29            </intent-filter>
+30        </activity>
+31    </application>
+32
+33</manifest>
